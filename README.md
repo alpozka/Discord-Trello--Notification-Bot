@@ -26,7 +26,10 @@ node trellobot.js
 
 # Configuration
 **Automatic Configuration:**
+
 When you call the "/newtrello" command in the thread area of your Discord channel, it is sufficient to enter the trello board id, discord channel id and threadID information in the text box.
+
+![Alt text](image.png)
 
 **Manuel Configuration:**
 
