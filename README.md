@@ -29,8 +29,7 @@ Automatic Configuration:
 When you call the "/newtrello" command in the thread area of your Discord channel, it is sufficient to enter the trello board id, discord channel id and threadID information in the text box.
 
 Manuel Configuration:
-
-```js
+You can add the trello board id, discord channel id and threadID information to the id.json file.
 id.json file 
 
 The id.json file contains the board id, discord channel id and threadID of the discord channel, which are located in the url of your trello board.
