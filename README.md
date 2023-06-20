@@ -3,8 +3,10 @@
 
 
 # installation
-npm install \n
-configure .env file \n
+npm install
+
+configure .env file
+ 
 node trellobot.js
 
 # Configuration
